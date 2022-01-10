@@ -20,3 +20,6 @@ python-jose
 python-multipart
 
 jinja2
+
+#for static files
+aiofiles
