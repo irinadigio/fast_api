@@ -4,3 +4,8 @@ venv
 
 .env
 env
+test_db.db
+.pytest_cache
+htmlcov
+.coverage
+/__pycache__/
